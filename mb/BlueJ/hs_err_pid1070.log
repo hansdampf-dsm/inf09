@@ -1,0 +1,15 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0xb6040b60, pid=1070, tid=1698
+#
+# JRE version: OpenJDK Runtime Environment (11.0.9.1+1) (build 11.0.9.1+1-post-Raspbian-1deb10u2)
+# Java VM: OpenJDK Server VM (11.0.9.1+1-post-Raspbian-1deb10u2, mixed mode, g1 gc, linux-)
+# Problematic frame:
+# C  [libjimage.so+0x1b60]
+#
+# No core dump will be written. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+# If you would like to submit a bug report, please visit:
+#   Unknown
+#
